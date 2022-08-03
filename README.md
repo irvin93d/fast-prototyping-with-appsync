@@ -1,0 +1,1 @@
+# fast-prototyping-with-appsync
